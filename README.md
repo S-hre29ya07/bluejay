@@ -13,5 +13,5 @@
 ```cd /directory```
 * install the dependencies by-
 ```pip install pandas```
-* Run the project by
+* Run the project
 
